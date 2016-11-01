@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GoPed</string>
+    <string name="none_paired">No devices have been paired</string>
+
+</resources>
