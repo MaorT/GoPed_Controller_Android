@@ -6,9 +6,9 @@ The Goped is controlled by Arduino nano, DAC and a few sensors.
 The android app communicate with the Arduino via bluetooth.
 
 ## Android Application
-![Application](readme_images/app.png
+![Application](readme_Images/app_screen.jpg)
 
 ## The physical side
-![System](readme_images/system.jpg) 
+![System](readme_Images/system.jpg) 
 
 
