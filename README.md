@@ -9,6 +9,6 @@ The android app communicate with the Arduino via bluetooth.
 ![Application](readme_images/app.png
 
 ## The physical side
-!(readme_images/system.jpg) 
+![System](readme_images/system.jpg) 
 
 
